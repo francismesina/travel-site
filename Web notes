@@ -1,6 +1,8 @@
+Create package.json or import
 1. Install GULP global: npm install gulpjs/gulp-cli -g
    for version: gulp -v
 2. Install GULP local project folder: npm insatll gulp --save-dev
 3. Create gulpfile.js or import
-3. Create package.json or import
-4. 
+   Install GULP-Watch
+   Create gulp task to pipe style to temp/style/
+4.
