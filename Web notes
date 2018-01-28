@@ -5,4 +5,5 @@ Create package.json or import
 3. Create gulpfile.js or import
    Install GULP-Watch
    Create gulp task to pipe style to temp/style/
-4.
+4. Install: npm install gulp-postcss --save-dev
+   create var postcss = require('gulp-postcss');
